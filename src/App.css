@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+h1{
+  font-family:gelo;
+  color: rgba(29, 255, 116, 0.896);
+  letter-spacing: 6px;
+}
+body{
+  background-color: rgb(52, 52, 52);
+}
+@font-face {
+  font-family:gelo;
+  src: url("./SnowtopCaps.otf") format(opentype);
+}
